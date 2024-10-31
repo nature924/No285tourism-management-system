@@ -49,7 +49,6 @@
 ---
 ### 论文截图：
 ![image/1.png](limage/1.png)
-![image/1.png](limage/2.png)
 
 ### 程序截图：
 ![image/1.png](image/1.png)
